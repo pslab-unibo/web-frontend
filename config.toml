@@ -1,5 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://pslab-unibo.github.io"
+title = "PS Lab "
+theme = "pslab-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
