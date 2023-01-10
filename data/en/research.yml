@@ -1,16 +1,20 @@
 ############################# About ###################################
-about:
+research:
   enable : true
-  title : About Us
+  title : Research
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
+    title : Research Theme A
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    link: "#"
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
+    title : Research Theme B
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
+    link: "#"
+    
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
+    title : Research Theme B
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    link: "#"
+    
