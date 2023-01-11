@@ -1,69 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News on Educenter | hugo education template</title>
+    <title>Blogs on PS Lab </title>
     <link>https://pslab-unibo.github.io/blog/</link>
-    <description>Recent content in Latest News on Educenter | hugo education template</description>
+    <description>Recent content in Blogs on PS Lab </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://pslab-unibo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://pslab-unibo.github.io/blog/blog-post-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>Are You Doing the Right Way</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-8/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://pslab-unibo.github.io/blog/blog-post-1/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-8/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://pslab-unibo.github.io/blog/blog-post-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>How To Setup Meghna Hugo</title>
+      <link>https://pslab-unibo.github.io/blog/installation/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
       
-      <guid>https://pslab-unibo.github.io/blog/blog-post-2/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://pslab-unibo.github.io/blog/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     
     <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://pslab-unibo.github.io/blog/blog-post-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-1/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://pslab-unibo.github.io/blog/blog-post-3/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-1/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://pslab-unibo.github.io/blog/blog-post-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-2/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://pslab-unibo.github.io/blog/blog-post-4/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-2/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://pslab-unibo.github.io/blog/blog-post-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-3/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://pslab-unibo.github.io/blog/blog-post-5/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-3/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
     <item>
-      <title>Elegant Light Box Paper Cut Dioramas</title>
-      <link>https://pslab-unibo.github.io/blog/blog-post-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-4/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
       
-      <guid>https://pslab-unibo.github.io/blog/blog-post-6/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-4/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-5/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-5/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-6/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-6/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>Simple Blog Post</title>
+      <link>https://pslab-unibo.github.io/blog/simple-blog-post-7/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://pslab-unibo.github.io/blog/simple-blog-post-7/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     
   </channel>
