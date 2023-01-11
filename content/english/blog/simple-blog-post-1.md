@@ -1,9 +1,9 @@
 ---
-title: "Simple Blog Post"
+title: "Alchemist 126.0.1 Released!"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
+image_webp: images/blog/image-a.jpeg
+image: images/blog/image-a.jpeg
+author: Danilo Pianini
 description : "This is meta description"
 ---
 

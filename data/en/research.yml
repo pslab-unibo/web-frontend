@@ -4,17 +4,17 @@ research:
   title : Research
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Research Theme A
+    title : Aggregate Computing
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
     link: "#"
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Research Theme B
+    title : Digital Twin
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
     link: "#"
     
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Research Theme B
+    title : Augmented Reality
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
     link: "#"
     

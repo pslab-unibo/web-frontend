@@ -3,6 +3,36 @@ team:
   enable : true
   title : Our Team
   team_member :
+  # team member loop
+    - name : Mirko Viroli
+      image_webp : images/team/mirko.png
+      image : images/team/mirko.png
+      designation : Full professor
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+          # team member loop
+    - name : Alessandro Ricci
+      image_webp : images/team/alessandro.png
+      image : images/team/alessandro.png
+      designation : Assistant professor
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+          link : "#"
     # team member loop
     - name : Danilo Pianini
       image_webp : images/team/danilo.jpg
@@ -18,12 +48,11 @@ team:
           link : "#"
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
-    # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
+          # team member loop
+    - name : Roberto Casadei
+      image_webp : images/team/roberto.png
+      image : images/team/roberto.png
+      designation : Junior assistant professor
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
@@ -34,36 +63,4 @@ team:
           link : "#"
         - icon : ti-email # themify icon pack : https://themify.me/themify-icons
           link : "#"
-          
-        
-    # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-      social :
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+ 

@@ -1,9 +1,9 @@
 ---
-title: "Simple Blog Post"
+title: "Seminar Multi Agent RL @ PPS!"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-1.webp
-image: images/blog/blog-post-1.jpg
-author: John Doe
+image_webp: images/blog/image-a.jpeg
+image: images/blog/image-a.jpeg
+author: Gianluca Aguzzi
 description : "This is meta description"
 ---
 

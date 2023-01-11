@@ -1,9 +1,9 @@
 ---
-title: "Simple Blog Post"
+title: "Collective Processes with Aggregate Computing accepted at ACSOS!"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
+image_webp: images/blog/image-a.jpeg
+image: images/blog/image-a.jpeg
+author: Mirko Viroli
 description : "This is meta description"
 ---
 

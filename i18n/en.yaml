@@ -1,9 +1,11 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: PSLab News
+- id: blogNavTitle
+  translation: Latest News
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: Check all the News
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -16,8 +18,8 @@
   translation: About Us
 - id: services
   translation: Service
-- id: portfolio
-  translation: Portfolio
+- id: projects
+  translation: Projects
 - id: team
   translation: Team
 - id: pricing

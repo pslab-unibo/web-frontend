@@ -42,77 +42,46 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "research"
-url = "#research"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "info"
-weight = 4
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "info"
-name = "thesis"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "info"
-name = "intership"
-url = "#"
-weight = 2
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
+name = "About"
 url = "#about"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
+[[Languages.en.menu.main]]
+name = "Research"
+url = "#research"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
+[[Languages.en.menu.main]]
+name = "Team"
+url = "#team"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
+[[Languages.en.menu.main]]
+name = "Projects"
+url = "#projects"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
+[[Languages.en.menu.main]]
+name = "News"
+url = "#blog"
 weight = 5
 
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
+[[Languages.en.menu.main]]
+name = "Other"
 weight = 6
+hasChildren = true
 
-[[Languages.fr.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
+[[Languages.en.menu.main]]
+parent = "Other"
+name = "Thesis"
+url = "#"
+weight = 1
 
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+[[Languages.en.menu.main]]
+parent = "Other"
+name = "Intership"
+url = "#"
+weight = 2
 
 ############################# Default Parameters ##########################
 [params]

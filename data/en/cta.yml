@@ -1,0 +1,23 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  title : "Welcome to Pervasive Systems Lab"
+  content : " Lorem ipsum dolor sit amet, consectetur adipiscing elit. In blandit id ante condimentum iaculis. 
+  Curabitur interdum facilisis sagittis. Curabitur faucibus egestas iaculis. Mauris facilisis maximus sollicitudin. 
+  Morbi sodales magna sit amet massa viverra elementum. Pellentesque porta sollicitudin velit, sed lacinia orci placerat sollicitudin. 
+  Nullam elit nibh, suscipit ut lectus sit amet, facilisis sollicitudin neque. Cras finibus iaculis odio, eget tristique mi laoreet sed. 
+  Sed id ipsum lectus. Fusce mattis sit amet metus a congue. Nullam vitae diam tellus. Vestibulum ac egestas leo, in condimentum sapien. 
+  Donec sed est eget lectus viverra hendrerit et at felis. Aliquam convallis elementum arcu id vehicula.
+  Donec lobortis congue tellus, sed laoreet arcu fringilla vel. Nunc urna eros, sagittis eu nisi non, pharetra dictum diam. 
+  Sed sed mauris pharetra, pharetra mi eu, semper quam. Morbi bibendum at elit sit amet volutpat. Quisque efficitur tellus nec tincidunt semper. 
+  Aliquam auctor sollicitudin arcu, sit amet vehicula orci efficitur sed. Quisque volutpat ex vitae sem pulvinar aliquet id nec est. 
+  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec vel mauris ligula. 
+  Ut dignissim est at orci euismod, in facilisis elit ullamcorper. Proin eu metus et nulla interdum elementum. 
+  Aliquam erat volutpat. Cras varius, est a molestie auctor, risus augue aliquam diam, ut pulvinar velit justo ut tortor. 
+  In venenatis posuere vestibulum. "
+  button:
+    enable : true
+    label : "Discover our reasearch"
+    link : "#research"
