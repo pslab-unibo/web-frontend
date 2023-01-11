@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - master
-
+permissions:
+  contents: write
 jobs:
   Build-And-Deploy:
     runs-on: ubuntu-20.04
@@ -38,15 +39,15 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
           ssh-key: ${{ secrets.DEPLOY_KEY }}
-          git-config-name: Danilo Pianini
-          git-config-email: danilo.pianini@unibo.it
+          git-config-name: github-actions
+          git-config-email: github-actions@github.com
           repository-name: pslab-unibo/pslab-unibo.github.io
           branch: master
           folder: public
       - name: Deploy staging
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
-          git-config-name: Danilo Pianini
-          git-config-email: danilo.pianini@unibo.it
+          git-config-name: github-actions
+          git-config-email: github-actions@github.com
           branch: gh-pages
           folder: public
