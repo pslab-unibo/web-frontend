@@ -57,19 +57,19 @@ url = "#blog"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Dropdown"
+name = "info"
 weight = 4
 hasChildren = true
 
 [[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
+parent = "info"
+name = "thesis"
 url = "#"
 weight = 1
 
 [[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
+parent = "info"
+name = "intership"
 url = "#"
 weight = 2
 
