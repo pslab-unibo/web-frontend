@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pslab-unibo.github.io/team/mirko-viroli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pslab-unibo.github.io/team/danilo-pianini/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pslab-unibo.github.io/team/roberto-casadei/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pslab-unibo.github.io/team/gianluca.aguzzi/</loc>
+  </url>
+  
+  <url>
     <loc>https://pslab-unibo.github.io/blog/</loc>
     <lastmod>2025-01-12T12:52:36+06:00</lastmod>
     <xhtml:link
@@ -115,6 +131,10 @@
                 hreflang="en"
                 href="https://pslab-unibo.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://pslab-unibo.github.io/team/</loc>
   </url>
   
 </urlset>
