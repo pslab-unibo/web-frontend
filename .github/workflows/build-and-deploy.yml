@@ -14,9 +14,7 @@ jobs:
         with:
           fetch-depth: 0
           submodules: recursive
-      - name: Fetch tags
-        shell: bash
-        run: git fetch --tags -f
+          fetch-tags: 'true'
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3.0.0
         with:
