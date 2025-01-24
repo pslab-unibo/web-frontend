@@ -3,18 +3,27 @@ research:
   enable : true
   title : Research
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-vector # themify icon pack : https://themify.me/themify-icons
     title : Aggregate Computing
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : |
+      Aggregate computing is a paradigm for designing distributed systems that emphasizes simplicity, scalability, and adaptability.
+      Rather than focusing on the behavior of individual devices, it treats systems as cohesive wholes,
+      enabling developers to define high-level behaviors that emerge from local interactions among devices.
+
+      This approach is particularly powerful in dynamic and large-scale environments,
+      such as the Internet of Things (IoT), smart cities, and sensor networks.
+      By abstracting away the complexity of low-level communication and coordination, aggregate computing allows for robust,
+      flexible, and efficient solutions to real-world challenges, from environmental monitoring to autonomous systems.
     link: "#"
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Digital Twin
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-magnet # themify icon pack : https://themify.me/themify-icons
+    title : Digital Twins
+    content: |
+      Samuele write here
     link: "#"
-    
+
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Augmented Reality
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content: |
+      Samuele write here
     link: "#"
-    
