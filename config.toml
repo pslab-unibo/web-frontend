@@ -61,6 +61,11 @@ name = "Projects"
 url = "#projects"
 weight = 4
 
+[[Languages.en.menu.main]]
+name = "Software systems"
+url = "#portfolio"
+weight = 5
+
 #[[Languages.en.menu.main]]
 #name = "News"
 #url = "#blog"
