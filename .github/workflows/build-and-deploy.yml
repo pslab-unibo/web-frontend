@@ -1,41 +1,41 @@
 name: Build and deploy
 on:
+  pull_request:
   push:
-    branches:
-      - master
 permissions:
   contents: write
 jobs:
-  Build-And-Deploy:
+  success:
     runs-on: ubuntu-20.04
     steps:
       # Checkout the repository
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.7.0
         with:
           fetch-depth: 0
           submodules: recursive
       - name: Fetch tags
         shell: bash
         run: git fetch --tags -f
-      - name: Download Hugo
-        run: wget --retry-connrefused --waitretry=1 --read-timeout=20 https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb --output-document=hugo.deb
-        env:
-          HUGO_VERSION: "0.73.0"
-      - name: List files
-        run: ls -ahl
-      - name: Install Hugo
-        run: sudo dpkg -i hugo.deb
-      - name: Print Hugo version
-        run: hugo version
-      - name: Remove Hugo Installer
-        run: rm hugo.deb
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3.0.0
+        with:
+          hugo-version: '0.73.0'
+          extended: true
       - name: Build Hugo website
         run: hugo
       - name: Debug
         run: echo $GITHUB_REPOSITORY
+      - name: Deploy staging
+        if: github.event_name == 'push' && github.ref_name == 'master'
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          git-config-name: github-actions
+          git-config-email: github-actions@github.com
+          branch: gh-pages
+          folder: public
       - name: Deploy official website
-        if: ${{ env.GITHUB_REPOSITORY }} == 'pslab-unibo/web-frontend'
+        if: github.event_name == 'push' && github.repository == 'pslab-unibo/web-frontend' && github.ref_name == 'master'
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
           token: ${{ secrets.DEPLOY_KEY }}
@@ -43,11 +43,4 @@ jobs:
           git-config-email: github-actions@github.com
           repository-name: pslab-unibo/pslab-unibo.github.io
           branch: master
-          folder: public
-      - name: Deploy staging
-        uses: JamesIves/github-pages-deploy-action@4.0.0
-        with:
-          git-config-name: github-actions
-          git-config-email: github-actions@github.com
-          branch: gh-pages
           folder: public
