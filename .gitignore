@@ -1,2 +1,4 @@
-public
+public/
 _gen/
+.hugo_build.lock
+deploy_*
