@@ -11,7 +11,7 @@ projects:
       link : "http://alchemistsimulator.github.io/"
     - name : Protelis
       image : https://protelis.github.io/images/logo2.png
-      image_webp : images/projects/alchemist.png
+      image_webp : https://protelis.github.io/images/logo2.png
       categories : ["Framework"]
       content : Protelis is a stand-alone JVM-based language for aggregate computing.
       link : "http://protelis.github.io/"
