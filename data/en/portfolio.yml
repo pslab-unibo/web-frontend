@@ -1,5 +1,23 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : false
-  title : Our Projects
+  enable : true
+  title : Our Software Systems
   portfolio_item :
+    - name : Alchemst
+      image : images/projects/alchemist.png
+      image_webp : images/projects/alchemist.png
+      categories : ["Simulation"]
+      content : Alchemist is a simulator for pervasive, aggregate, and nature-inspired computing.
+      link : "http://alchemistsimulator.github.io/"
+    - name : Protelis
+      image : https://protelis.github.io/images/logo2.png
+      image_webp : https://protelis.github.io/images/logo2.png
+      categories : ["Framework"]
+      content : Protelis is a stand-alone JVM-based language for aggregate computing.
+      link : "http://protelis.github.io/"
+    - name : ScaFi
+      image : images/projects/scafi.png
+      image_webp : images/projects/scafi.png
+      categories : ["Framework"]
+      content : ScaFi (Scala Fields) is a Scala-based library and framework for Aggregate Programming.
+      link : "https://scafi.github.io/"

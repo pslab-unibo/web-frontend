@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 projects:
   enable : true
-  title : Our Software Systems
+  title : Our Projects
   projects_item :
     - name : Alchemst
       image : images/projects/alchemist.png
