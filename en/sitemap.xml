@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pslab-unibo.github.io/blog/simple-blog-post-1/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pslab-unibo.github.io/blog/simple-blog-post-1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://pslab-unibo.github.io/blog/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2025-01-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -33,23 +18,8 @@
   </url>
   
   <url>
-    <loc>https://pslab-unibo.github.io/blog/simple-blog-post-2/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pslab-unibo.github.io/blog/simple-blog-post-2/"
-                />
-  </url>
-  
-  <url>
     <loc>https://pslab-unibo.github.io/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <lastmod>2025-01-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -63,32 +33,17 @@
   </url>
   
   <url>
-    <loc>https://pslab-unibo.github.io/blog/simple-blog-post-3/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <loc>https://pslab-unibo.github.io/blog/simple-blog-post-1/</loc>
+    <lastmod>2025-01-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/blog/simple-blog-post-3/"
+                href="https://pslab-unibo.github.io/fr/blog/simple-blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pslab-unibo.github.io/blog/simple-blog-post-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://pslab-unibo.github.io/blog/simple-blog-post-4/</loc>
-    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pslab-unibo.github.io/blog/simple-blog-post-4/"
+                href="https://pslab-unibo.github.io/blog/simple-blog-post-1/"
                 />
   </url>
   
