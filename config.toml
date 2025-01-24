@@ -61,27 +61,27 @@ name = "Projects"
 url = "#projects"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "News"
-url = "#blog"
-weight = 5
-
-[[Languages.en.menu.main]]
-name = "Other"
-weight = 6
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Other"
-name = "Thesis"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "Other"
-name = "Intership"
-url = "#"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "News"
+#url = "#blog"
+#weight = 5
+#
+#[[Languages.en.menu.main]]
+#name = "Other"
+#weight = 6
+#hasChildren = true
+#
+#[[Languages.en.menu.main]]
+#parent = "Other"
+#name = "Thesis"
+#url = "#"
+#weight = 1
+#
+#[[Languages.en.menu.main]]
+#parent = "Other"
+#name = "Intership"
+#url = "#"
+#weight = 2
 
 ############################# Default Parameters ##########################
 [params]
