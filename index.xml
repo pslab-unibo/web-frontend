@@ -41,24 +41,6 @@
     
     <item>
       <title></title>
-      <link>https://pslab-unibo.github.io/team/giovanni-ciatto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pslab-unibo.github.io/team/giovanni-ciatto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pslab-unibo.github.io/team/ruslan-shaiakhmetov/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pslab-unibo.github.io/team/ruslan-shaiakhmetov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://pslab-unibo.github.io/team/roberto-casadei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -68,19 +50,28 @@
     
     <item>
       <title></title>
-      <link>https://pslab-unibo.github.io/team/gianluca-aguzzi/</link>
+      <link>https://pslab-unibo.github.io/team/giovanni-ciatto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pslab-unibo.github.io/team/gianluca-aguzzi/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://pslab-unibo.github.io/team/giovanni-ciatto/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pslab-unibo.github.io/team/samuele-burattini/</link>
+      <link>https://pslab-unibo.github.io/team/gianluca-aguzzi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pslab-unibo.github.io/team/samuele-burattini/</guid>
+      <guid>https://pslab-unibo.github.io/team/gianluca-aguzzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pslab-unibo.github.io/team/angela-cortecchia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pslab-unibo.github.io/team/angela-cortecchia/</guid>
       <description></description>
     </item>
     
@@ -113,10 +104,19 @@
     
     <item>
       <title></title>
-      <link>https://pslab-unibo.github.io/team/angela-cortecchia/</link>
+      <link>https://pslab-unibo.github.io/team/ruslan-shaiakhmetov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pslab-unibo.github.io/team/angela-cortecchia/</guid>
+      <guid>https://pslab-unibo.github.io/team/ruslan-shaiakhmetov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pslab-unibo.github.io/team/samuele-burattini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pslab-unibo.github.io/team/samuele-burattini/</guid>
       <description></description>
     </item>
     
