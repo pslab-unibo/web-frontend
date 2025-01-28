@@ -9,6 +9,12 @@ projects:
       categories : ["Simulation"]
       content : Alchemist is a simulator for pervasive, aggregate, and nature-inspired computing.
       link : "http://alchemistsimulator.github.io/"
+    - name : Collektive
+      image : images/projects/collektive.svg
+      image_webp : images/projects/collektive.svg
+      categories : ["Framework"]
+      content : Collektive is a Kotlin Multiplatform DSL for Aggregate Computing.
+      link : "https://collektive.github.io/"
     - name : Protelis
       image : https://protelis.github.io/images/logo2.png
       image_webp : https://protelis.github.io/images/logo2.png
