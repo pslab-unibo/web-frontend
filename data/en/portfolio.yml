@@ -3,21 +3,34 @@ portfolio:
   enable : true
   title : Our Software Systems
   portfolio_item :
+    - name : 2P-Kt
+      image : images/projects/2pkt.svg
+      image_webp : images/projects/2pkt.png
+      categories :
+        - Domain-Specific Language
+        - Logic Programming
+      content : 2P-Kt is a simulator for pervasive computing.
     - name : Alchemst
       image : images/projects/alchemist.png
       image_webp : images/projects/alchemist.png
-      categories : ["Simulation"]
+      categories :
+        - Simulator
+        - Aggregate Computing
       content : Alchemist is a simulator for pervasive, aggregate, and nature-inspired computing.
       link : "http://alchemistsimulator.github.io/"
     - name : Protelis
       image : https://protelis.github.io/images/logo2.png
       image_webp : https://protelis.github.io/images/logo2.png
-      categories : ["Framework"]
+      categories :
+        - Domain-Specific Language
+        - Aggregate Computing
       content : Protelis is a stand-alone JVM-based language for aggregate computing.
       link : "http://protelis.github.io/"
     - name : ScaFi
       image : images/projects/scafi.png
       image_webp : images/projects/scafi.png
-      categories : ["Framework"]
+      categories :
+        - Domain-Specific Language
+        - Aggregate Computing
       content : ScaFi (Scala Fields) is a Scala-based library and framework for Aggregate Programming.
       link : "https://scafi.github.io/"
