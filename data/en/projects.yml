@@ -3,6 +3,14 @@ projects:
   enable : true
   title : Our Projects
   projects_item :
+    - name : 2P-Kt
+      image : images/projects/2pkt.svg
+      image_webp : images/projects/2pkt.png
+      categories :
+        - Logic programming
+        - Programming languages
+        - Prolog
+      content :  A Kotlin Multi-Platform ecosystem for symbolic AI (and a Prolog interpreter)
       link : https://github.com/tuProlog/2p-kt
     - name : Alchemst
       image : images/projects/alchemist.png
