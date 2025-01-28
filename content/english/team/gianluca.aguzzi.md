@@ -1,13 +1,13 @@
 ---
 name : Gianluca Aguzzi
-image_webp : images/team/gianluca.jpg
+image_webp : images/team/gianluca.jpeg
 weight: 5
-image : images/team/gianluca.jpg
-designation : PhD Student
-short_description:  His main focus is on multi-agent learning in large-scale pervasive systems applied to swarm-like systems.
+image : images/team/gianluca.jpeg
+designation : Postdoctoral Researcher
+short_description: Gianluca Aguzzi's research interests focus on multi-agent learning in cooperative scenarios, aggregate computing, and the application of language models in software engineering. He is a key contributor to ScaFi and one of the primary developers of MacroSwarm.
 social :
   - icon: ti-info
-    link: "https://www.unibo.it/sitoweb/gianluca.aguzzi"
+    link: "https://www.unibo.it/sitoweb/gianluca.aguzzi/en"
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "https://github.com/cric96"
   - icon : ti-email # themify icon pack : https://themify.me/themify-icons

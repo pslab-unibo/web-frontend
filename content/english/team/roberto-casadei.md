@@ -8,7 +8,7 @@ short_description :  He is an expert in collective intelligence in large-scale m
 social:
 
   - icon: ti-info
-    link: "https://www.unibo.it/sitoweb/roberto.casadei"
+    link: "https://www.unibo.it/sitoweb/roby.casadei"
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     link : "https://github.com/metaphori"
   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
