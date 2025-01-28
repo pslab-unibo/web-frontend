@@ -2,7 +2,7 @@
 cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image_webp : "images/backgrounds/robot-network.jpg"
   title : "Pervasive Software Lab"
   content: |
     The Pervasive Software Lab is at the forefront of research in pervasive and distributed computing,
