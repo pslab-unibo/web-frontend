@@ -64,20 +64,6 @@
   </url>
   
   <url>
-    <loc>https://pslab-unibo.github.io/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pslab-unibo.github.io/author/"
-                />
-  </url>
-  
-  <url>
     <loc>https://pslab-unibo.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -88,34 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pslab-unibo.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://pslab-unibo.github.io/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pslab-unibo.github.io/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://pslab-unibo.github.io/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://pslab-unibo.github.io/fr/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pslab-unibo.github.io/author/mark-dinn/"
                 />
   </url>
   
