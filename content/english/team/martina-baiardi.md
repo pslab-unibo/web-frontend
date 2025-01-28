@@ -5,8 +5,7 @@ weight: 10
 image : images/team/martina.jpg
 designation: PhD Student
 short_description: >-
-  Martina Baiardi is a PhD student from University of Bologna since November 2024, supervised by Prof. Danilo Pianini.
-  She completed her master's degree in computer science proposing an open-source tool for programming BDI Multi-Agent Systems, named JaKtA.
+  She is the major maintainer of JaKtA, an open-source tool for programming BDI Multi-Agent Systems.
   Her research interests are related to Software Development, Continuous Integration and Continuous Deployment, Virtualization, Container Orchestration, Multi-Agent Systems, Collective Systems, and Autonomic Systems. 
 social:
   - icon: ti-info
