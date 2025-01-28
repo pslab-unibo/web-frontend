@@ -9,7 +9,7 @@ portfolio:
       categories :
         - Domain-Specific Language
         - Logic Programming
-      content : 2P-Kt is a simulator for pervasive computing.
+      content : A Kotlin Multi-Platform ecosystem for symbolic AI (and a Prolog interpreter)
     - name : Alchemst
       image : images/projects/alchemist.png
       image_webp : images/projects/alchemist.png

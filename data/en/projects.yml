@@ -3,37 +3,13 @@ projects:
   enable : true
   title : Our Projects
   projects_item :
-    - name : 2P-Kt
-      image : images/projects/2pkt.svg
-      image_webp : images/projects/2pkt.png
+    - name : Wood 4.0
+      image : https://www.scmgroup.com/website/var/tmp/image-thumbnails/140000/148783/thumb__SCM-galleryCarousel/AdobeStock_277819246@2x.jpeg
+      image_webp : https://www.scmgroup.com/website/var/tmp/image-thumbnails/140000/148783/thumb__SCM-galleryCarousel/AdobeStock_277819246@2x.jpeg
       categories :
-        - Logic programming
-        - Programming languages
-        - Prolog
-      content :  A Kotlin Multi-Platform ecosystem for symbolic AI (and a Prolog interpreter)
-      link : https://github.com/tuProlog/2p-kt
-    - name : Alchemst
-      image : images/projects/alchemist.png
-      image_webp : images/projects/alchemist.png
-      categories : ["Simulation"]
-      content : Alchemist is a simulator for pervasive, aggregate, and nature-inspired computing.
-      link : "http://alchemistsimulator.github.io/"
-    - name : Collektive
-      image : images/projects/collektive.svg
-      image_webp : images/projects/collektive.svg
-      categories : ["Framework"]
-      content : Collektive is a Kotlin Multiplatform DSL for Aggregate Computing.
-      link : "https://collektive.github.io/"
-    - name : Protelis
-      image : https://protelis.github.io/images/logo2.png
-      image_webp : https://protelis.github.io/images/logo2.png
-      categories : ["Framework"]
-      content : Protelis is a stand-alone JVM-based language for aggregate computing.
-      link : "http://protelis.github.io/"
-    - name : ScaFi
-      image : images/projects/scafi.png
-      image_webp : images/projects/scafi.png
-      categories : ["Framework"]
-      content : ScaFi (Scala Fields) is a Scala-based library and framework for Aggregate Programming.
-      link : "https://scafi.github.io/"
-
+        - Ongoing
+        - Regional Project
+      content: >-
+        Industrial project aiming to develop a versatile, high-performance, and digitized platform to manage
+        large scale woodworking manufacturing machines.
+      link : https://www.scmgroup.com/it/scmwood/news-events/news/wood-4.0-una-nuova-generazione-di-macchine-per-il-legno.n203408.html
