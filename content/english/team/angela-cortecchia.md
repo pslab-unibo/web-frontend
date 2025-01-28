@@ -1,8 +1,8 @@
 ---
 name : Angela Cortecchia
-image_webp : images/team/angela.pmg
+image_webp : images/team/angela.png
 weight: 11
-image : images/team/angela.pmg
+image : images/team/angela.png
 designation: PhD Student
 short_description: >-
   Angela Cortecchia is a PhD student at the University of Bologna since November 2024,
