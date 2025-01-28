@@ -6,24 +6,23 @@ research:
   - icon : ti-vector # themify icon pack : https://themify.me/themify-icons
     title : Aggregate Computing
     content : |
-      Aggregate computing is a paradigm for designing distributed systems that emphasizes simplicity, scalability, and adaptability.
-      Rather than focusing on the behavior of individual devices, it treats systems as cohesive wholes,
-      enabling developers to define high-level behaviors that emerge from local interactions among devices.
-
-      This approach is particularly powerful in dynamic and large-scale environments,
-      such as the Internet of Things (IoT), smart cities, and sensor networks.
-      By abstracting away the complexity of low-level communication and coordination, aggregate computing allows for robust,
-      flexible, and efficient solutions to real-world challenges, from environmental monitoring to autonomous systems.
+      Aggregate computing is a paradigm for distributed systems 
+      enabling developers to define high-level collective behaviors emerging from local interactions.
+      Our group is among the founders of the paradigm focusing on languages and tools
+      that abstract the complexity of low-level communication and coordination in large scale systems.
     link: "#"
 
-  - icon : ti-magnet # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-cloud-up # themify icon pack : https://themify.me/themify-icons
     title : Digital Twins
     content: |
-      Samuele write here
+      Committed to bridging the physical and digital worlds, we are developing Digital Twins that mirror real-world entities and processes.
+      Our focus is in researching architectures and platforms to support the development of Digital Twins
+      and their application to digitalize complex and dynamic ecosystems involving multiple heterogeneous assets and technologies. 
     link: "#"
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Augmented Reality
+  - icon : ti-layout-grid3 # themify icon pack : https://themify.me/themify-icons
+    title : Multi-Agent Systems
     content: |
-      Samuele write here
+      Multi-Agent Systems approach the development of distributed systems involving multiple autonomous entities that reason, learn, and interact with each other.
+      Our group research methodologies and tools to support the design, implementation, and deployment of Multi-Agent Systems, to develop autonomous and adaptive systems.
     link: "#"
