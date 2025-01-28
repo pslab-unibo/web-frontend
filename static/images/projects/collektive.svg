@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 422.46693 422.01482"
+   viewBox="0 0 20.554 20.543"
    version="1.1"
    id="svg3"
-   width="422.46695"
-   height="422.0148"
+   width="20.554001"
+   height="20.542999"
+   sodipodi:docname="collektive.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="31.848849"
+     inkscape:cx="10.942311"
+     inkscape:cy="11.303391"
+     inkscape:window-width="2560"
+     inkscape:window-height="1370"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3"
+     inkscape:export-bgcolor="#ffffffff" />
   <defs
      id="defs3">
     <pattern
@@ -62,6 +85,6 @@
   </radialGradient>
   <path
      style="mix-blend-mode:normal;fill:url(#pattern7);fill-opacity:1;stroke:url(#linearGradient8);stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-     d="M -7.2753908e-8,2.2757812e-7 H 20.554001 L 10.0625,10.113281 20.554001,20.542999 H -7.2753908e-8 V 2.2757812e-7"
+     d="M 0,0 H 20.554001 L 10.0625,10.113281 20.554001,20.542999 H 0 V 0"
      id="path7" />
 </svg>

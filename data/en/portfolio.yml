@@ -20,7 +20,7 @@ portfolio:
       link : "http://alchemistsimulator.github.io/"
     - name: Collektive
       image: images/projects/collektive.svg
-      image_webp: images/projects/collektive.svg
+      image_webp: images/projects/collektive.png
       categories :
         - Domain-Specific Language
         - Aggregate Computing
