@@ -4,8 +4,8 @@ projects:
   title : Our Projects
   projects_item :
     - name : Wood 4.0
-      image : https://www.scmgroup.com/website/var/tmp/image-thumbnails/140000/148783/thumb__SCM-galleryCarousel/AdobeStock_277819246@2x.jpeg
-      image_webp : https://www.scmgroup.com/website/var/tmp/image-thumbnails/140000/148783/thumb__SCM-galleryCarousel/AdobeStock_277819246@2x.jpeg
+      image : images/projects/wood_4_0.png
+      image_webp : images/projects/wood_4_0.png
       categories :
         - Ongoing
         - Regional Project

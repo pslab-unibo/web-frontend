@@ -10,7 +10,7 @@ portfolio:
         - Domain-Specific Language
         - Logic Programming
       content : A Kotlin Multi-Platform ecosystem for symbolic AI (and a Prolog interpreter)
-    - name : Alchemst
+    - name : Alchemist
       image : images/projects/alchemist.png
       image_webp : images/projects/alchemist.png
       categories :
