@@ -3,6 +3,15 @@ projects:
   enable : true
   title : Our Projects
   projects_item :
+    - name : 2P-Kt
+      image : images/projects/2pkt.svg
+      image_webp : images/projects/2pkt.png
+      categories :
+        - Logic programming
+        - Programming languages
+        - Prolog
+      content : 2P-Kt is a simulator for pervasive computing.
+      link : https://github.com/tuProlog/2p-kt
     - name : Alchemst
       image : images/projects/alchemist.png
       image_webp : images/projects/alchemist.png
