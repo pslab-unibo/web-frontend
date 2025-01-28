@@ -4,7 +4,7 @@ image_webp : images/team/mirko.png
 image : images/team/mirko.png
 weight: 2
 designation : Full professor
-short_description : One of the main architects of the Aggregate Computing paradigm, his main focus is around programming models and languages
+short_description : One of the main architects of the Aggregate Computing paradigm, his main focus is around programming models/languages, software engineering, and connection with distributed artificial intelligence
 social :
   - icon: ti-info
     link: "https://www.unibo.it/sitoweb/mirko.viroli"
