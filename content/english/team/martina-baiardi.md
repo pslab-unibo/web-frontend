@@ -1,7 +1,7 @@
 ---
 name : Martina Baiardi
 image_webp : images/team/martina.jpg
-weight: 10
+weight: 70
 image : images/team/martina.jpg
 designation: PhD Student
 short_description: >-

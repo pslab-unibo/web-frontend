@@ -1,7 +1,7 @@
 ---
 name : Angelo Filaseta
 image_webp : images/team/angelo.jpg
-weight: 12
+weight: 80
 image : images/team/angelo.jpg
 designation: Research Fellow
 short_description: >-

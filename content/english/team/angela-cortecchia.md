@@ -1,7 +1,7 @@
 ---
 name : Angela Cortecchia
 image_webp : images/team/angela.png
-weight: 11
+weight: 70
 image : images/team/angela.png
 designation: PhD Student
 short_description: >-

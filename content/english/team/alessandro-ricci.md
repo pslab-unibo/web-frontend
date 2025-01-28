@@ -1,7 +1,7 @@
 ---
 name : Alessandro Ricci
 image_webp : images/team/alessandro.png
-weight: 2
+weight: 20
 image : images/team/alessandro.png
 designation : Associate Professor
 short_description: >-

@@ -1,7 +1,7 @@
 ---
 name : Davide Domini
 image_webp : images/team/davide.jpeg
-weight: 10
+weight: 70
 image : images/team/davide.jpeg
 designation: PhD Student
 short_description: >-

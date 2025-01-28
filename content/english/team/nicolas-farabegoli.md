@@ -1,7 +1,7 @@
 ---
 name : Nicolas Farabegoli
 image_webp : images/team/nicolas.jpg
-weight: 10
+weight: 70
 image : images/team/nicolas.jpg
 designation: PhD Student
 short_description: >-

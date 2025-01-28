@@ -1,7 +1,7 @@
 ---
 name : Ruslan Shaiakhmetov
 image_webp : images/team/ruslan.jpeg
-weight: 3
+weight: 70
 image : images/team/ruslan.jpeg
 designation: PhD student
 short_description: >-

@@ -1,7 +1,7 @@
 ---
 name : Giovanni Ciatto
 image_webp : images/team/gciatto.jpg
-weight: 3
+weight: 50
 image : images/team/gciatto.jpg
 designation: Junior assistant professor
 short_description: >-

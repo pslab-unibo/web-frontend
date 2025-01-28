@@ -1,7 +1,7 @@
 ---
 name : Danilo Pianini
 image_webp : images/team/danilo.jpg
-weight: 3
+weight: 30
 image : images/team/danilo.jpg
 designation: Senior assistant professor
 short_description: >-
