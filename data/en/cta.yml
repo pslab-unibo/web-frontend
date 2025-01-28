@@ -14,5 +14,5 @@ cta:
     Explore our research, projects, and collaborations to discover how we are driving technological transformation.
   button:
     enable : true
-    label : "Discover our reasearch"
+    label : "Discover our research"
     link : "#research"
