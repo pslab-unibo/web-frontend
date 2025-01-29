@@ -50,3 +50,22 @@ portfolio:
         - Aggregate Computing
       content : ScaFi (Scala Fields) is a Scala-based library and framework for Aggregate Programming.
       link : "https://scafi.github.io/"
+    - name : HWoDT
+      image : images/projects/wodt.png
+      image_webp : images/projects/wodt.png
+      categories :
+        - Digital Twins
+      content : Implementing the Web of Digital Twins with Hypermedia
+      link : "https://web-of-digital-twins.github.io/"
+    - name : WLDT
+      image : images/projects/wldt.png
+      image_webp : images/projects/wldt.png
+      categories :
+        - Digital Twins
+      content : |
+          White Label Digital Twins is an open-source Java library for implementing Digital Twins 
+
+          *A joint projet with [UniMoRe](https://dipi-unimore.netlify.app/)*
+      link : "https://wldt.github.io/"
+
+      
