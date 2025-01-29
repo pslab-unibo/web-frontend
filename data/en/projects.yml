@@ -19,7 +19,8 @@ projects:
       categories :
         - Ongoing
         - National Project
-      content: >-
-        PRIN
+      content: >- 
+        Aims to develop a new open and distributed DT platform, Digital Twin Continuum (DTC),
+        to support the management, deployment and exploitation of Digital Twin Ecosystems.
       link : https://twinkle-project.github.io
 

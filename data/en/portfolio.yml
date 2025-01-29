@@ -26,6 +26,14 @@ portfolio:
         - Aggregate Computing
       content: Collektive is a Kotlin Multiplatform DSL for Aggregate Computing.
       link: "https://collektive.github.io/"
+    - name: JaKtA
+      image: images/projects/jakta.png
+      image_webp: images/projects/jakta.png
+      categories :
+        - Domain-Specific Language
+        - BDI Agent Programming
+      content: JaKtA is a Kotlin based framework for BDI agent programming
+      link: "https://jakta-bdi.github.io/"
     - name : Protelis
       image : https://protelis.github.io/images/logo2.png
       image_webp : https://protelis.github.io/images/logo2.png
