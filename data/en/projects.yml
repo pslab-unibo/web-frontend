@@ -13,3 +13,13 @@ projects:
         Industrial project aiming to develop a versatile, high-performance, and digitized platform to manage
         large scale woodworking manufacturing machines.
       link : https://www.scmgroup.com/it/scmwood/news-events/news/wood-4.0-una-nuova-generazione-di-macchine-per-il-legno.n203408.html
+    - name : TWINKLE
+      image : images/projects/twinkle.png
+      image_webp : images/projects/twinkle.png
+      categories :
+        - Ongoing
+        - National Project
+      content: >-
+        PRIN
+      link : https://twinkle-project.github.io
+
