@@ -4,22 +4,17 @@
     <title>Blogs on PS Lab </title>
     <link>https://pslab-unibo.github.io/blog/</link>
     <description>Recent content in Blogs on PS Lab </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
     <lastBuildDate>Sun, 12 Jan 2025 12:52:36 +0600</lastBuildDate>
-    
-	<atom:link href="https://pslab-unibo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://pslab-unibo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The website is online!</title>
       <link>https://pslab-unibo.github.io/blog/2025-01-12-website-online/</link>
       <pubDate>Sun, 12 Jan 2025 12:52:36 +0600</pubDate>
-      
       <guid>https://pslab-unibo.github.io/blog/2025-01-12-website-online/</guid>
-      <description>It looks like this thing works, more or less.</description>
+      <description>&lt;p&gt;It looks like this thing works, more or less.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

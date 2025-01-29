@@ -4,12 +4,9 @@
     <title>Tags on PS Lab </title>
     <link>https://pslab-unibo.github.io/fr/tags/</link>
     <description>Recent content in Tags on PS Lab </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    
-	<atom:link href="https://pslab-unibo.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://pslab-unibo.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
