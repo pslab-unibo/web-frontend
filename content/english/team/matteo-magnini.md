@@ -1,7 +1,7 @@
 ---
 name : Matteo Magnini
 image_webp : images/team/matteo.png
-weight: 60
+weight: 70
 image : images/team/matteo.png
 designation : PhD Student
 short_description: >-
