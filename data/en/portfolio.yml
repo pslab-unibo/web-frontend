@@ -10,6 +10,7 @@ portfolio:
         - Domain-Specific Language
         - Logic Programming
       content : A Kotlin Multi-Platform ecosystem for symbolic AI (and a Prolog interpreter)
+      link: "https://apice.unibo.it/xwiki/bin/view/Tuprolog/"
     - name : Alchemist
       image : images/projects/alchemist.png
       image_webp : images/projects/alchemist.png
@@ -63,9 +64,9 @@ portfolio:
       categories :
         - Digital Twins
       content : |
-          White Label Digital Twins is an open-source Java library for implementing Digital Twins 
+          An open-source Java library for implementing Digital Twins
 
-          *A joint projet with [UniMoRe](https://dipi-unimore.netlify.app/)*
+          *Partnership with [UniMoRe](https://dipi-unimore.netlify.app/)*
       link : "https://wldt.github.io/"
 
       
