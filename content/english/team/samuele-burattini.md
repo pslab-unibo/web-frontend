@@ -1,7 +1,7 @@
 ---
 name : Samuele Burattini
 image_webp : images/team/samuele.jpg
-weight: 70
+weight: 65
 image : images/team/samuele.jpg
 designation : PhD Candidate
 short_description: >-

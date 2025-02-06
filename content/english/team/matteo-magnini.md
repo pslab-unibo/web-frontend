@@ -1,9 +1,9 @@
 ---
 name : Matteo Magnini
 image_webp : images/team/matteo.png
-weight: 70
+weight: 65
 image : images/team/matteo.png
-designation : PhD Student
+designation : PhD Candidate
 short_description: >-
   Matteo is a PhD student since November 2022.
   His research activities comprehends the fields of Artificial Intelligence (AI), Neuro-Symbolic AI, Large Language Models, Fair AI and Multi-Agent Systems.
