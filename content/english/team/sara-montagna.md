@@ -1,7 +1,7 @@
 ---
 name : Sara Montagna
 image_webp : images/team/sara.jpg
-weight: 65
+weight: 20
 image : images/team/sara.jpg
 designation : Associate Professor
 short_description: >-
