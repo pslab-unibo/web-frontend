@@ -3,7 +3,7 @@ baseURL = "https://pslab-unibo.github.io"
 title = "PS Lab "
 theme = "pslab-hugo"
 # post pagination
-paginate = "6"
+pagination.pagerSize = 6
 # post excerpt
 summaryLength = "15"
 # disqus short name
