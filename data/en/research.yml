@@ -26,3 +26,18 @@ research:
       Multi-Agent Systems approach the development of distributed systems involving multiple autonomous entities that reason, learn, and interact with each other.
       Our group research methodologies and tools to support the design, implementation, and deployment of Multi-Agent Systems, to develop autonomous and adaptive systems.
     link: "#"
+
+  - icon : ti-filter # themify icon pack : https://themify.me/themify-icons
+    title : NeuroSymbolic AI
+    content: |
+      NeuroSymbolic AI is an emerging field that combines neural networks and symbolic reasoning to develop AI systems that can learn from data and reason over it.
+      Our group is contributing by focusing the development of explainable and interpretable AI systems.
+    link: "#"
+
+  - icon : ti-control-shuffle # themify icon pack : https://themify.me/themify-icons
+    title : Complex Systems
+    content: |
+      Complex Systems are systems composed of many interacting entities that exhibit emergent properties.
+      Our group is researching methodologies and tools to model, simulate, and analyze complex systems, to understand their behavior and predict their evolution.
+    link: "#"
+
