@@ -3,6 +3,14 @@ projects:
   enable : true
   title : Our Projects
   projects_item :
+    - name: Project Emerge
+      image: images/projects/project_emerge.png
+      image_webp: images/projects/project-emerge.png
+      categories:
+        - Ongoing
+      content: >-
+        An affordable, modular, and open-source swarm robotics platform for education and research.
+      link: /projects/project-emerge
     - name : Wood 4.0
       image : images/projects/wood_4_0.png
       image_webp : images/projects/wood_4_0.png
