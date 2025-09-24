@@ -36,11 +36,14 @@
   </url><url>
     <loc>https://pslab-unibo.github.io/team/angelo-filaseta/</loc>
   </url><url>
-    <loc>https://pslab-unibo.github.io/blog/</loc>
-    <lastmod>2025-01-12T12:52:36+06:00</lastmod>
+    <loc>https://pslab-unibo.github.io/projects/project-emerge/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pslab-unibo.github.io/projects/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pslab-unibo.github.io/</loc>
-    <lastmod>2025-01-12T12:52:36+06:00</lastmod>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -51,6 +54,9 @@
                 hreflang="en-us"
                 href="https://pslab-unibo.github.io/"
                 />
+  </url><url>
+    <loc>https://pslab-unibo.github.io/blog/</loc>
+    <lastmod>2025-01-12T12:52:36+06:00</lastmod>
   </url><url>
     <loc>https://pslab-unibo.github.io/blog/2025-01-12-website-online/</loc>
     <lastmod>2025-01-12T12:52:36+06:00</lastmod>
