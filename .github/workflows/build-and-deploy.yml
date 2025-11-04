@@ -26,7 +26,7 @@ jobs:
         run: echo $GITHUB_REPOSITORY
       - name: Deploy staging
         if: github.event_name == 'push' && github.ref_name == 'master'
-        uses: JamesIves/github-pages-deploy-action@v4.7.3
+        uses: JamesIves/github-pages-deploy-action@v4.7.4
         with:
           git-config-name: github-actions
           git-config-email: github-actions@github.com
@@ -34,7 +34,7 @@ jobs:
           folder: public
       - name: Deploy official website
         if: github.event_name == 'push' && github.repository == 'pslab-unibo/web-frontend' && github.ref_name == 'master'
-        uses: JamesIves/github-pages-deploy-action@v4.7.3
+        uses: JamesIves/github-pages-deploy-action@v4.7.4
         with:
           ssh-key: ${{ secrets.DEPLOY_KEY }}
           git-config-name: github-actions
