@@ -2,7 +2,7 @@
 name : Roberto Casadei
 image_webp : images/team/roberto.png
 image : images/team/roberto.png
-designation : Junior assistant professor
+designation : Senior assistant professor
 weight: 30
 short_description :  He is an expert in collective intelligence in large-scale multi-agent systems. Together with Viroli, he is the main contributor to ScaFi and he is the main architect of aggregate process.
 social:
