@@ -1,9 +1,9 @@
 ---
 name : Danilo Pianini
 image_webp : images/team/danilo.jpg
-weight: 30
+weight: 20
 image : images/team/danilo.jpg
-designation: Senior assistant professor
+designation: Associate professor
 short_description: >-
   Danilo Pianini specializes in aggregate programming, simulation, and DevOps techniques.
   Advocates open science.
