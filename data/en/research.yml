@@ -12,6 +12,13 @@ research:
       that abstract the complexity of low-level communication and coordination in large scale systems.
     link: "#"
 
+  - icon : ti-sharethis # themify icon pack : https://themify.me/themify-icons
+    title : Distributed Intelligence
+    content: |
+      Distributed Intelligence studies how intelligent behavior emerges from networks of learning and decision-making entities.
+      Our group investigates self-organising and swarm-based AI, federated learning for collaborative training,
+      and distributed reinforcement learning for coordinated adaptation.
+
   - icon : ti-cloud-up # themify icon pack : https://themify.me/themify-icons
     title : Digital Twins
     content: |
