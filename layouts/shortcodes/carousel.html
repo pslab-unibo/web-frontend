@@ -1,0 +1,28 @@
+<div id="carousel-container">
+    {{ .Inner }}
+</div>
+
+<style>
+    #carousel-container {
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+        padding: 10px;
+        /* Add scroll-snap for a smoother scrolling experience */
+        scroll-snap-type: x mandatory;
+    }
+
+    #carousel-container > * {
+        scroll-snap-align: start;
+        flex-shrink: 0;
+    }
+
+    /* On smaller screens, display images in a column */
+    @media (max-width: 768px) {
+        #carousel-container {
+            flex-direction: column;
+            align-items: center;
+            overflow-x: hidden;
+        }
+    }
+</style>
