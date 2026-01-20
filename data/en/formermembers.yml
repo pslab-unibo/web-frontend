@@ -1,0 +1,4 @@
+############################# Former Members ############################
+former_members:
+  enable: true
+  title: "Former Members"
