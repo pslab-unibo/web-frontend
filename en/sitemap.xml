@@ -32,9 +32,9 @@
   </url><url>
     <loc>https://pslab-unibo.github.io/team/nicolas-farabegoli/</loc>
   </url><url>
-    <loc>https://pslab-unibo.github.io/team/andrea-giulianelli/</loc>
+    <loc>https://pslab-unibo.github.io/formermembers/andrea-giulianelli/</loc>
   </url><url>
-    <loc>https://pslab-unibo.github.io/team/angelo-filaseta/</loc>
+    <loc>https://pslab-unibo.github.io/formermembers/angelo-filaseta/</loc>
   </url><url>
     <loc>https://pslab-unibo.github.io/projects/project-emerge/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
@@ -72,6 +72,8 @@
                 hreflang="en-us"
                 href="https://pslab-unibo.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://pslab-unibo.github.io/formermembers/</loc>
   </url><url>
     <loc>https://pslab-unibo.github.io/tags/</loc>
     <xhtml:link
