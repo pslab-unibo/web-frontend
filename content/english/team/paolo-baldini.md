@@ -9,7 +9,7 @@ social :
   - icon: ti-info
     link: "https://www.unibo.it/sitoweb/paolo.baldini/en"
   - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-    link : "https://github.com/cric96"
+    link : "https://github.com/todo"
   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-    link : "mailto:paolo.baldini@unibo.it"
+    link : "mailto:p.baldini@unibo.it"
 ---
