@@ -5,9 +5,9 @@ weight: 65
 image : images/team/matteo.png
 designation : PhD Candidate
 short_description: >-
-  Matteo is a PhD student since November 2022.
-  His research activities comprehends the fields of Artificial Intelligence (AI), Neuro-Symbolic AI, Large Language Models, Fair AI and Multi-Agent Systems.
-  He is a key contributor and main maintainer the PSyKI project.
+  Currently Matteo is a postdoc researcher at the University of Luxembourg.
+  He did his PhD at the University of Bologna, under the supervision of Prof. Andrea Omicini.
+  His research activities comprehends the fields of Artificial Intelligence (AI), Neuro-Symbolic AI, Large Language Models, Logics, Fair AI and Multi-Agent Systems.
 social :
   - icon: ti-info
     link: "https://www.unibo.it/sitoweb/matteo.magnini/en"
