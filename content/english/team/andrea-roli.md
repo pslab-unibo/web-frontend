@@ -1,7 +1,7 @@
 ---
 name : Andrea Roli
 image_webp : images/team/andrea-roli.jpg
-weight: 20
+weight: 25
 image : images/team/andrea-roli.jpg
 designation: Researcher and Adjunct professor
 short_description: >-
