@@ -2,6 +2,7 @@
 
 * Full professor = 10
 * Associate professor = 20
+* RTI = 25
 * RTDB = 30
 * RTT = 40
 * RTDA = 50
