@@ -1,8 +1,8 @@
 ---
 name : Davide Domini
-image_webp : images/team/davide.jpeg
+image_webp : images/team/davide.jpg
 weight: 70
-image : images/team/davide.jpeg
+image : images/team/davide.jpg
 designation: PhD Student
 short_description: >-
   Davide is a PhD student from University of Bologna since November 2023, supervised by Prof. Mirko Viroli.
