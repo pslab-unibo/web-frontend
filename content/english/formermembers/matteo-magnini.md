@@ -3,7 +3,7 @@ name : Matteo Magnini
 image_webp : images/team/matteo.png
 weight: 60
 image : images/team/matteo.png
-designation : PostDoc
+designation : Postdoctoral Researcher
 short_description: >-
   Currently Matteo is a postdoc researcher at the University of Luxembourg.
   He did his PhD at the University of Bologna, under the supervision of Prof. Andrea Omicini.
