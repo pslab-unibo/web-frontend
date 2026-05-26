@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -54,13 +55,13 @@
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://pslab-unibo.github.io/fr/"
+                hreflang="en-us"
+                href="https://pslab-unibo.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://pslab-unibo.github.io/"
+                hreflang="fr-fr"
+                href="https://pslab-unibo.github.io/fr/"
                 />
   </url><url>
     <loc>https://pslab-unibo.github.io/blog/2025-09-best-student-paper-acsos-copy/</loc>
@@ -78,13 +79,13 @@
     <loc>https://pslab-unibo.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://pslab-unibo.github.io/fr/categories/"
+                hreflang="en-us"
+                href="https://pslab-unibo.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://pslab-unibo.github.io/categories/"
+                hreflang="fr-fr"
+                href="https://pslab-unibo.github.io/fr/categories/"
                 />
   </url><url>
     <loc>https://pslab-unibo.github.io/formermembers/</loc>
@@ -92,13 +93,13 @@
     <loc>https://pslab-unibo.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="https://pslab-unibo.github.io/fr/tags/"
+                hreflang="en-us"
+                href="https://pslab-unibo.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://pslab-unibo.github.io/tags/"
+                hreflang="fr-fr"
+                href="https://pslab-unibo.github.io/fr/tags/"
                 />
   </url><url>
     <loc>https://pslab-unibo.github.io/team/</loc>
