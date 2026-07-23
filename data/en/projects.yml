@@ -15,7 +15,7 @@ projects:
       image : images/projects/wood_4_0.png
       image_webp : images/projects/wood_4_0.png
       categories :
-        - Ongoing
+        - Closed
         - Regional Project
       content: >-
         Industrial project aiming to develop a versatile, high-performance, and digitized platform to manage
@@ -25,10 +25,20 @@ projects:
       image : images/projects/twinkle.png
       image_webp : images/projects/twinkle.png
       categories :
-        - Ongoing
+        - Closed
         - National Project
       content: >- 
         Aims to develop a new open and distributed DT platform, Digital Twin Continuum (DTC),
         to support the management, deployment and exploitation of Digital Twin Ecosystems.
       link : https://twinkle-project.github.io
+    - name : FoMaSe
+      image : images/projects/fomase.png
+      image_webp : images/projects/fomase.png
+      categories :
+        - Ongoing
+        - National Project
+      content: >- 
+        Aims to investigate ways for addressing the micro-macro link and artificial collective intelligence by a computer science and software engineering perspective
+      link : https://fis3-fomase.github.io/
+
 

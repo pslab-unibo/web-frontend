@@ -3,7 +3,7 @@ name : Ruslan Shaiakhmetov
 image_webp : images/team/ruslan.jpeg
 weight: 65
 image : images/team/ruslan.jpeg
-designation: PhD Candidate
+designation: Postdoctoral Researcher
 short_description: >-
   Ruslan Shaiakhmetov specializes in robotics, simulation, and machine learning.
   Creator of Yasik.

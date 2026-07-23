@@ -1,11 +1,11 @@
 ---
 name : Davide Domini
 image_webp : images/team/davide.jpg
-weight: 70
+weight: 65
 image : images/team/davide.jpg
-designation: PhD Student
+designation: PhD Candidate
 short_description: >-
-  Davide is a PhD student from University of Bologna since November 2023, supervised by Prof. Mirko Viroli.
+  Davide is a PhD candidate from University of Bologna since November 2023, supervised by Prof. Mirko Viroli.
   His research interests are related to Collective Intelligence, Federated Learning, Reinforcement Learning, Aggregate Computing, Software Development and Self-Organizing Systems. 
 social:
   - icon: ti-info
