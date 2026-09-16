@@ -12,7 +12,7 @@
 			<copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
 		
 		
-			<lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 11 Sep 2026 12:00:00 +0200</lastBuildDate>
 		
 			<atom:link href="https://pslab-unibo.github.io/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -161,6 +161,20 @@
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://pslab-unibo.github.io/formermembers/angelo-filaseta/</guid>
 				<description></description>
+			</item>
+			<item>
+				<title>Best Companion Artifact Award at ACSOS 2026</title>
+				<link>https://pslab-unibo.github.io/blog/2026-09-best-artifact-award-acsos-2026/</link>
+				<pubDate>Fri, 11 Sep 2026 12:00:00 +0200</pubDate>
+				<guid>https://pslab-unibo.github.io/blog/2026-09-best-artifact-award-acsos-2026/</guid>
+				<description>&lt;p&gt;We are thrilled to announce that our paper, &lt;strong&gt;&amp;ldquo;Multi-Target Tracking via Field-Based Distributed Particle Filtering&amp;rdquo;&lt;/strong&gt;, received the &lt;strong&gt;Best Companion Artifact Award&lt;/strong&gt; at &lt;strong&gt;ACSOS 2026&lt;/strong&gt;!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IEEE ACSOS 2026 at the Cesena Campus</title>
+				<link>https://pslab-unibo.github.io/blog/2026-09-acsos-2026/</link>
+				<pubDate>Mon, 07 Sep 2026 09:00:00 +0200</pubDate>
+				<guid>https://pslab-unibo.github.io/blog/2026-09-acsos-2026/</guid>
+				<description>&lt;p&gt;We are proud to announce that the &lt;strong&gt;IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2026)&lt;/strong&gt; took place &lt;strong&gt;September 7–11, 2026&lt;/strong&gt;, at the University of Bologna&amp;rsquo;s &lt;strong&gt;Cesena Campus&lt;/strong&gt; — marking a historic milestone as the &lt;strong&gt;first international conference ever organised at this campus&lt;/strong&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Project Emerge</title>
