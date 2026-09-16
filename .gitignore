@@ -2,3 +2,5 @@ public/
 _gen/
 .hugo_build.lock
 deploy_*
+
+**.DS_Store
